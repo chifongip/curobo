@@ -1,6 +1,16 @@
 
 Licenses for external assets are listed here:
 
+Agibot X2 Ultra v1.3.0
+---------------------
+
+The URDF and STL meshes in curobo/content/assets/robot/agibot_x2/ came from:
+
+Site: https://github.com/AgibotTech/agibot_x2_urdf
+Revision: 575cc6b988f976c23550e0db85aa1e5475d3652d, X2_URDF-v1.3.0
+License: Mulan Permissive Software License, Version 2 (Mulan PSL v2)
+The upstream license is included at curobo/content/assets/robot/agibot_x2/LICENSE.
+
 franka_ros 0.7.0
 ----------------
 

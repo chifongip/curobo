@@ -5,6 +5,14 @@ Reference
 API documentation, and factual information about cuRobo.
 
 
+Robot Models
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   agibot_x2
+
 Development
 -----------
 
